@@ -4,9 +4,13 @@ A classic 2D Snake Game built with Python and Pygame. Navigate the snake to coll
 
 ---
 
-## Quick Preview
+## Preview
 
+<p align="center">
+  <img src="snake-preview.png" alt="Snake Preview" width="400">
+</p>
 
+---
 
 ## 🎮 Features
 
