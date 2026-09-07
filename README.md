@@ -7,9 +7,9 @@ A classic 2D Snake Game built with Python and Pygame. Navigate the snake to coll
 ## 🎮 Features
 
 * **Classic Gameplay:** Simple mechanics based on the traditional Snake arcade game.
-* **Custom Graphics & Layout:** Configurable grid dimensions and scalable custom icons[cite: 1].
-* **Pause & Restart:** Easily restart the game upon collision by pressing **P**[cite: 1].
-* **Score Counter:** Real-time score display in the top-right corner[cite: 1].
+* **Custom Graphics & Layout:** Configurable grid dimensions and scalable custom icons.
+* **Pause & Restart:** Easily restart the game upon collision by pressing **P**.
+* **Score Counter:** Real-time score display in the top-right corner.
 
 ---
 
@@ -17,17 +17,22 @@ A classic 2D Snake Game built with Python and Pygame. Navigate the snake to coll
 
 | Action | Key |
 | --- | --- |
-| **Move Up** | <kbd>W</kbd> or <kbd>↑</kbd>[cite: 1] |
-| **Move Down** | <kbd>S</kbd> or <kbd>↓</kbd>[cite: 1] |
-| **Move Left** | <kbd>A</kbd> or <kbd>←</kbd>[cite: 1] |
-| **Move Right** | <kbd>D</kbd> or <kbd>→</kbd>[cite: 1] |
-| **Restart Game** | <kbd>P</kbd> *(when paused/game over)*[cite: 1] |
+| **Move Up** | <kbd>W</kbd> or <kbd>↑</kbd> |
+| **Move Down** | <kbd>S</kbd> or <kbd>↓</kbd> |
+| **Move Left** | <kbd>A</kbd> or <kbd>←</kbd> |
+| **Move Right** | <kbd>D</kbd> or <kbd>→</kbd> |
+| **Restart Game** | <kbd>P</kbd> *(when paused/game over)* |
 
 ---
 
-## 📋 Prerequisites
+---
 
-Before running the game, ensure you have Python installed along with the `pygame` package[cite: 1].
+**Required Assets:**
+Ensure the following asset files are present in your project directory:
 
-```bash
-pip install pygame
+
+* `snake-ico.ico`
+
+* `snake-png.png`
+
+---
