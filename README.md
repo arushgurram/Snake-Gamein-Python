@@ -4,6 +4,10 @@ A classic 2D Snake Game built with Python and Pygame. Navigate the snake to coll
 
 ---
 
+## Quick Preview
+
+
+
 ## 🎮 Features
 
 * **Classic Gameplay:** Simple mechanics based on the traditional Snake arcade game.
