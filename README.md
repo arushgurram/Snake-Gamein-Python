@@ -25,6 +25,13 @@ A classic 2D Snake Game built with Python and Pygame. Navigate the snake to coll
 
 ---
 
+## Requirements
+
+* Python 3.x
+* pygame
+
+---
+
 **Required Assets:**
 Ensure the following asset files are present in your project directory:
 
